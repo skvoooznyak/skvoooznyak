@@ -1,0 +1,13 @@
+{
+	"shapesOff": [
+		{
+			"bounds": [5, 0, 7, 11, 2, 9],
+			"texture": ":block/texture"
+		},
+		{
+			"bounds": [7, 2, 7, 9, 10, 9],
+			"texture": ":block/texture"
+		}
+	],
+	"shapesOn": []
+}
