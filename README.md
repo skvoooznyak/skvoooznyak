@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skvoooznyak&show_icons=true&theme=dark)
+[![roadmap.sh](https://roadmap.sh/card/tall/687fdc25d8402b4cbd1046d9?variant=dark&roadmaps=%2Ccyber-security)](https://roadmap.sh)
 
 
 
